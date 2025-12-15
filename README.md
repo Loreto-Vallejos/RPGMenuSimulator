@@ -65,13 +65,13 @@ El proyecto tiene como objetivo practicar los fundamentos de programación estru
 
 🧪 **Validaciones Implementadas**
 
-No se permiten valores numéricos negativos
+- No se permiten valores numéricos negativos
 
-Se validan las opciones del menú
+- Se validan las opciones del menú
 
-Se controla el ingreso de datos no numéricos
+- Se controla el ingreso de datos no numéricos
 
-No se permite ejecutar acciones sin crear un personaje
+- No se permite ejecutar acciones sin crear un personaje
 
 ---
 
