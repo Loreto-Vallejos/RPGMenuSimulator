@@ -11,55 +11,55 @@ El proyecto tiene como objetivo practicar los fundamentos de programación estru
 
 🎯 **Objetivos de Aprendizaje**
 
-Aplicar variables y operadores básicos
+- Aplicar variables y operadores básicos
 
-Implementar control de flujo con if / else y switch
+- Implementar control de flujo con if / else y switch
 
-Utilizar correctamente los cuatro tipos de bucles:
+- Utilizar correctamente los cuatro tipos de bucles:
 
-do-while
+- do-while
 
-while
+- while
 
-for
+- for
 
-foreach
+- foreach
 
-Interactuar con el usuario mediante consola
+- Interactuar con el usuario mediante consola
 
-Validar entradas para evitar errores de ejecución
+- Validar entradas para evitar errores de ejecución
 
-Organizar un proyecto simple y versionarlo con Git y GitHub
+- Organizar un proyecto simple y versionarlo con Git y GitHub
 
 ---
 
 ⚙️ **Tecnologías Utilizadas**
 
-Java
+- Java
 
-Scanner
+- Scanner
 
-Git
+- Git
 
-GitHub
+- GitHub
 
 ---
 
 🧩 **Funcionalidades**
 
-Menú principal interactivo (do-while)
+- Menú principal interactivo (do-while)
 
-Creación de personaje con validaciones
+- Creación de personaje con validaciones
 
-Sistema de entrenamiento para mejorar estadísticas (while)
+- Sistema de entrenamiento para mejorar estadísticas (while)
 
-Simulación de batalla por turnos (for)
+- Simulación de batalla por turnos (for)
 
-Visualización de inventario mediante arreglo (foreach)
+- Visualización de inventario mediante arreglo (foreach)
 
-Consulta del estado del personaje con reglas condicionales
+- Consulta del estado del personaje con reglas condicionales
 
-Salida segura del sistema
+- Salida segura del sistema
 
 ---
 
