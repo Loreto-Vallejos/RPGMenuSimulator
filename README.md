@@ -30,6 +30,8 @@ Validar entradas para evitar errores de ejecución
 
 Organizar un proyecto simple y versionarlo con Git y GitHub
 
+---
+
 ⚙️ **Tecnologías Utilizadas**
 
 Java
@@ -39,6 +41,8 @@ Scanner
 Git
 
 GitHub
+
+---
 
 🧩 **Funcionalidades**
 
@@ -56,6 +60,8 @@ Consulta del estado del personaje con reglas condicionales
 
 Salida segura del sistema
 
+---
+
 🧪 **Validaciones Implementadas**
 
 No se permiten valores numéricos negativos
@@ -66,6 +72,8 @@ Se controla el ingreso de datos no numéricos
 
 No se permite ejecutar acciones sin crear un personaje
 
+---
+
 ▶️ **Cómo Ejecutar el Proyecto**
 Compilación
 javac src/RPGMenuSimulator.java
@@ -73,12 +81,16 @@ javac src/RPGMenuSimulator.java
 Ejecución
 java src.RPGMenuSimulator
 
+---
+
 📁 **Estructura del Proyecto**
 RPGMenuSimulator/
 ├── src/
 │   └── RPGMenuSimulator.java
 ├── .gitignore
 └── README.md
+
+---
 
 👥 Autor
 
