@@ -1,4 +1,4 @@
-🧙 **RPG Menu Simulator (Java Console)**
+🧙 #RPG Menu Simulator (Java Console)
 
 ---
 
